@@ -4,7 +4,7 @@ one cms with django
 
 > 环境
 
-- Python 3.8
+- Python 3.7
 - Django 1.8.19
 
 > 功能
