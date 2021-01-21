@@ -10,3 +10,7 @@ one cms with django
 > 功能
 
 - 添加用户管理（组，权限）
+
+> 部署
+
+django + uwsgi.ini + supervisord.conf + nginx.conf
